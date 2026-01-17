@@ -2,7 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) medical assistant powered by GPT-4o, LangChain, and Pinecone. Ask medical questions and get accurate, context-aware responses sourced from The Gale Encyclopedia of Medicine.
 
-![Medical Chatbot Demo](chatbot-gif.gif)
+![chatbot-git](https://github.com/user-attachments/assets/761a93d2-bf01-4a97-a50c-ba54ac7dc795)
+
 
 ## Features
 
